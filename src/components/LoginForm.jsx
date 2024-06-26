@@ -61,6 +61,7 @@ const TextBox = styled.input`
   width: 12rem;
   border: 0.5px solid #818589;
   border-radius: 0.5rem;
+  color: white;
 `;
 
 const Container = styled.div`
